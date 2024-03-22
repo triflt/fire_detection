@@ -1,0 +1,5 @@
+albumentations==0.4.6
+pycocotools
+torch
+pandas
+opencv-python
